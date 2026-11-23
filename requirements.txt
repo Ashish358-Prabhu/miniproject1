@@ -1,0 +1,10 @@
+scapy
+fastapi[all]
+uvicorn[standard]
+asyncpg
+pandas
+scikit-learn
+joblib
+python-multipart
+# optional for dev
+pytest
